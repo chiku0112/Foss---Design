@@ -1,0 +1,9 @@
+Figma link:
+
+figma.com/proto/FiDHAVGJHmoHZf1SlLUzOZ/Untitled?node-id=0%3A1&scaling=scale-down
+
+Here's a Calendar UI.
+You can click on a particular date to mark it in blue color. A click anywhere will remove it.
+On clicking the "+" sign, you will be navigated to create an event frame. You can turn on/off Repeat. You cannot edit an event , I'm still working on how to add that. On clicking on Save, you will be back on previous frame. 
+If you click on November, a new frame will appear where you can choose a month to view its calendar, once.
+Thanks for viewing my UI.
